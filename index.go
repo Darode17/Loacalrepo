@@ -5,5 +5,5 @@ import(
 )
 
 func main(){
-	fmt.Println("This is my changed title 3: c6.")
+	fmt.Println("This is updated")
 }
